@@ -19,6 +19,8 @@ env/
 
 # 5. 실행 파일
 *.exe
+*.exe.old
+*.old
 
 # 6. 운영체제 임시 파일
 .DS_Store
